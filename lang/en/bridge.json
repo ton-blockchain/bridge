@@ -74,7 +74,7 @@
     "amountOfTon": "Amount of TON:",
     "addressInputLabel": "Address to receive in <NETWORK>:",
     "bridgeFeeAbove10": "Bridge fee - <FEE> TON",
-    "bridgeFeeBelow10": "Bridge fee - 5 TON + 0.25% of amount",
+    "bridgeFeeBelow10": "Bridge fee - 5 TON + 0.25% of (amount - 5)",
     "sourceCode": "Source Code",
     "howItWorks": "How it works",
     "documentation": "Documentation",

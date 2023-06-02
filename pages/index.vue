@@ -343,9 +343,9 @@ export default Vue.extend({
             try {
                 const response = await fetch(this.params.getGasUrl, {
                     method: 'GET',
-                    headers: {
-                        'Cache-Control': 'no-store, max-age=0'
-                    }
+                    // headers: {
+                    //     'Cache-Control': 'no-store, max-age=0'
+                    // }
                 });
 
                 if (!response.ok) {
